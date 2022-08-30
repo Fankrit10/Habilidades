@@ -10,6 +10,7 @@ Herramientas de ciencias de datos
 - Excel - Avanzado
 - App sheet - Intermedio
 - Power BI - Intermedio
+- SQL
 
 Herramientas gráficas
 - Photoshop - avanzado
